@@ -115,16 +115,16 @@ dsh plugin --profile desktop add "D:/code/dsh-plugins/dsh-setting-backup"
 
 如果这个插件帮你省下了重新配置工作台的时间，欢迎请作者喝杯咖啡 ☕
 
-<p align="center">
+<!-- <p align="center">
   <strong>打赏二维码待补充</strong>
-</p>
+</p> -->
 
 <!-- 将收款码图片保存为 assets/donate.png，取消下方图片段落的注释，并删除上方占位提示。 -->
-<!--
+
 <p align="center">
-  <img src="assets/donate.png" alt="打赏二维码" width="240" />
+  <img src="assets/donate.jpg" alt="打赏二维码" width="240" />
 </p>
--->
+
 
 ## 许可
 
