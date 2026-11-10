@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Back up, export and restore DeepSeek Harness settings together with the installed plugin list, as one zip.",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "icon": "./icon.svg",
   "main": "lib/index.js",
   "exports": {
@@ -17,6 +17,7 @@
     "lib",
     "cordis.patch.yml",
     "icon.svg",
+    "assets",
     "README.md"
   ],
   "scripts": {
