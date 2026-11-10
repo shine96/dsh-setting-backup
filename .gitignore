@@ -1,4 +1,6 @@
 node_modules/
 .setting-backup/
 *.log
-
+.tmp/
+.deepseek-harness/
+docs/
