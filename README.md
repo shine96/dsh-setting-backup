@@ -121,7 +121,7 @@ dsh plugin --profile desktop add "D:/code/dsh-plugins/dsh-setting-backup"
 
 <!-- 将收款码图片保存为 assets/donate.png，取消下方图片段落的注释，并删除上方占位提示。 -->
 
-<p align="center">
+<p align="left">
   <img src="assets/donate.jpg" alt="打赏二维码" width="240" />
 </p>
 
