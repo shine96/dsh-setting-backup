@@ -52,7 +52,7 @@
 从本项目 GitHub 仓库安装：
 
 ```bash
-dsh plugin --profile desktop add github.com:shine96/dsh-setting-backup
+dsh plugin --profile desktop add github:shine96/dsh-setting-backup
 ```
 
 也可以下载源码后从本地目录安装，路径请替换为实际存放位置：
